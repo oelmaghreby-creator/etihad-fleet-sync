@@ -55,6 +55,15 @@ def main():
             rec["Active"] = False; retired += 1
     rows = sorted(fleet.values(), key=lambda r: r["Title"])
     json.dump(rows, open(OUT,"w"), indent=2)
+    # grouped-by-Model view for Power Apps
+    from collections import defaultdict
+    groups = defaultdict(list)
+    for r in rows:
+        if r.get("Active"):
+            groups[r["Model"]].append(r["Title"])
+    by_model = [{"Model": m, "Typecode": next((x["Typecode"] for x in rows if x["Model"]==m), ""),
+                 "Count": len(v), "Tails": sorted(v)} for m, v in sorted(groups.items())]
+    json.dump(by_model, open("etihad_fleet_by_model.json","w"), indent=2)
     active = sum(1 for r in rows if r["Active"])
     print(f"Sweep {stamp}: {len(rows)} tails ({active} active) | +{new} new, {retired} soft-retired this run")
 
