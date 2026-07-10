@@ -14,33 +14,36 @@
   {
     "Model": "777-300ER",
     "Typecode": "B77W",
-    "Count": 6,
+    "Count": 8,
     "Tails": [
       "A6-ETA",
       "A6-ETE",
       "A6-ETG",
+      "A6-ETH",
       "A6-ETI",
       "A6-ETJ",
+      "A6-ETQ",
       "A6-ETS"
     ]
   },
   {
     "Model": "787-10",
     "Typecode": "B78X",
-    "Count": 6,
+    "Count": 7,
     "Tails": [
       "A6-BMA",
       "A6-BMB",
       "A6-BMC",
       "A6-BMD",
       "A6-BMF",
-      "A6-BMH"
+      "A6-BMH",
+      "A6-BMJ"
     ]
   },
   {
     "Model": "787-9",
     "Typecode": "B789",
-    "Count": 24,
+    "Count": 25,
     "Tails": [
       "A6-BLB",
       "A6-BLC",
@@ -63,6 +66,7 @@
       "A6-BNC",
       "A6-BND",
       "A6-BNF",
+      "A6-BNG",
       "A6-BNH",
       "A6-BNI",
       "A6-BNJ"
@@ -71,14 +75,16 @@
   {
     "Model": "A320",
     "Typecode": "A320",
-    "Count": 10,
+    "Count": 12,
     "Tails": [
+      "A6-EIB",
       "A6-EII",
       "A6-EIM",
       "A6-EIP",
       "A6-EIS",
       "A6-EIT",
       "A6-EIU",
+      "A6-EIV",
       "A6-EIW",
       "A6-EIX",
       "A6-EIY",
@@ -88,7 +94,7 @@
   {
     "Model": "A321",
     "Typecode": "A321",
-    "Count": 7,
+    "Count": 8,
     "Tails": [
       "A6-AEB",
       "A6-AEC",
@@ -96,16 +102,19 @@
       "A6-AEE",
       "A6-AEF",
       "A6-AEG",
-      "A6-AEH"
+      "A6-AEH",
+      "A6-AEI"
     ]
   },
   {
     "Model": "A321neo",
     "Typecode": "A21N",
-    "Count": 11,
+    "Count": 15,
     "Tails": [
       "A6-AEN",
       "A6-AEO",
+      "A6-AEP",
+      "A6-AEQ",
       "A6-AER",
       "A6-AES",
       "A6-LRA",
@@ -113,20 +122,23 @@
       "A6-LRD",
       "A6-LRF",
       "A6-LRH",
+      "A6-LRI",
       "A6-LRJ",
+      "A6-LRK",
       "A6-LRL"
     ]
   },
   {
     "Model": "A350-1000",
     "Typecode": "A35K",
-    "Count": 9,
+    "Count": 10,
     "Tails": [
       "A6-XWA",
       "A6-XWB",
       "A6-XWF",
       "A6-XWG",
       "A6-XWH",
+      "A6-XWI",
       "A6-XWJ",
       "A6-XWL",
       "A6-XWN",
