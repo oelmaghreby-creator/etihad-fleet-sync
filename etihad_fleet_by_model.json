@@ -29,27 +29,31 @@
   {
     "Model": "787-10",
     "Typecode": "B78X",
-    "Count": 7,
+    "Count": 9,
     "Tails": [
       "A6-BMA",
       "A6-BMB",
       "A6-BMC",
       "A6-BMD",
+      "A6-BME",
       "A6-BMF",
       "A6-BMH",
+      "A6-BMI",
       "A6-BMJ"
     ]
   },
   {
     "Model": "787-9",
     "Typecode": "B789",
-    "Count": 27,
+    "Count": 30,
     "Tails": [
       "A6-BLB",
       "A6-BLC",
       "A6-BLD",
+      "A6-BLE",
       "A6-BLF",
       "A6-BLG",
+      "A6-BLH",
       "A6-BLJ",
       "A6-BLK",
       "A6-BLL",
@@ -61,6 +65,7 @@
       "A6-BLS",
       "A6-BLT",
       "A6-BLV",
+      "A6-BLW",
       "A6-BLX",
       "A6-BLZ",
       "A6-BNA",
