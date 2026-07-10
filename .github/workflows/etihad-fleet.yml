@@ -1,14 +1,14 @@
 name: Etihad Fleet Sync
-  on:
+on:
     schedule:
       - cron: "0 */3 * * *"
     workflow_dispatch: {}
-  permissions:
+permissions:
     contents: write
-  concurrency:
+concurrency:
     group: fleet-sync
     cancel-in-progress: false
-  jobs:
+jobs:
     sync:
       runs-on: ubuntu-latest
       steps:
