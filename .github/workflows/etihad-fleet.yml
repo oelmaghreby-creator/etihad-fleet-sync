@@ -1,8 +1,8 @@
 name: Etihad Fleet Sync
   on:
     schedule:
-      - cron: "0 */3 * * *"     # every 3 hours (UTC)
-    workflow_dispatch: {}        # manual "Run workflow" button
+      - cron: "0 */3 * * *"
+    workflow_dispatch: {}
   permissions:
     contents: write
   concurrency:
