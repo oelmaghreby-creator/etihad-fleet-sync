@@ -1,26 +1,21 @@
 name: Etihad Fleet Sync
 on:
-    schedule:
-      - cron: "0 */3 * * *"
-    workflow_dispatch: {}
+  schedule:
+    - cron: "0 */3 * * *"
+  workflow_dispatch: {}
 permissions:
-    contents: write
+  contents: write
 concurrency:
-    group: fleet-sync
-    cancel-in-progress: false
+  group: fleet-sync
+  cancel-in-progress: false
 jobs:
-    sync:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: actions/checkout@v4
-        - uses: actions/setup-python@v5
-          with: { python-version: "3.12" }
-        - name: Sweep live ADS-B and accumulate
-          run: python sync.py
-        - name: Commit if changed
-          run: |
-            git config user.name  "fleet-bot"
-            git config user.email "fleet-bot@users.noreply.github.com"
-            git add etihad_fleet.json
-            git commit -m "fleet sync $(date -u +%FT%TZ)" || echo "no changes"
-            git push
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: Sweep live ADS-B and accumulate
+        run: python sync.py
+      - name: Commit if changed
+        run: git config user.name fleet-bot && git config user.email bot@users.noreply.github.com && git add -A && (git diff --cached --quiet || (git commit -m "fleet sync" && git pull --rebase --autostash origin main && git push))
