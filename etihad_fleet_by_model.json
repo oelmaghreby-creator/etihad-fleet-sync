@@ -1,0 +1,136 @@
+[
+  {
+    "Model": "777-200LR/F",
+    "Typecode": "B77L",
+    "Count": 5,
+    "Tails": [
+      "A6-DDB",
+      "A6-DDC",
+      "A6-DDD",
+      "A6-DDE",
+      "A6-DDF"
+    ]
+  },
+  {
+    "Model": "777-300ER",
+    "Typecode": "B77W",
+    "Count": 6,
+    "Tails": [
+      "A6-ETA",
+      "A6-ETE",
+      "A6-ETG",
+      "A6-ETI",
+      "A6-ETJ",
+      "A6-ETS"
+    ]
+  },
+  {
+    "Model": "787-10",
+    "Typecode": "B78X",
+    "Count": 6,
+    "Tails": [
+      "A6-BMA",
+      "A6-BMB",
+      "A6-BMC",
+      "A6-BMD",
+      "A6-BMF",
+      "A6-BMH"
+    ]
+  },
+  {
+    "Model": "787-9",
+    "Typecode": "B789",
+    "Count": 24,
+    "Tails": [
+      "A6-BLB",
+      "A6-BLC",
+      "A6-BLD",
+      "A6-BLF",
+      "A6-BLG",
+      "A6-BLJ",
+      "A6-BLK",
+      "A6-BLM",
+      "A6-BLN",
+      "A6-BLO",
+      "A6-BLR",
+      "A6-BLS",
+      "A6-BLT",
+      "A6-BLV",
+      "A6-BLX",
+      "A6-BLZ",
+      "A6-BNA",
+      "A6-BNB",
+      "A6-BNC",
+      "A6-BND",
+      "A6-BNF",
+      "A6-BNH",
+      "A6-BNI",
+      "A6-BNJ"
+    ]
+  },
+  {
+    "Model": "A320",
+    "Typecode": "A320",
+    "Count": 10,
+    "Tails": [
+      "A6-EII",
+      "A6-EIM",
+      "A6-EIP",
+      "A6-EIS",
+      "A6-EIT",
+      "A6-EIU",
+      "A6-EIW",
+      "A6-EIX",
+      "A6-EIY",
+      "A6-EJA"
+    ]
+  },
+  {
+    "Model": "A321",
+    "Typecode": "A321",
+    "Count": 7,
+    "Tails": [
+      "A6-AEB",
+      "A6-AEC",
+      "A6-AED",
+      "A6-AEE",
+      "A6-AEF",
+      "A6-AEG",
+      "A6-AEH"
+    ]
+  },
+  {
+    "Model": "A321neo",
+    "Typecode": "A21N",
+    "Count": 11,
+    "Tails": [
+      "A6-AEN",
+      "A6-AEO",
+      "A6-AER",
+      "A6-AES",
+      "A6-LRA",
+      "A6-LRB",
+      "A6-LRD",
+      "A6-LRF",
+      "A6-LRH",
+      "A6-LRJ",
+      "A6-LRL"
+    ]
+  },
+  {
+    "Model": "A350-1000",
+    "Typecode": "A35K",
+    "Count": 9,
+    "Tails": [
+      "A6-XWA",
+      "A6-XWB",
+      "A6-XWF",
+      "A6-XWG",
+      "A6-XWH",
+      "A6-XWJ",
+      "A6-XWL",
+      "A6-XWN",
+      "A6-XWO"
+    ]
+  }
+]
