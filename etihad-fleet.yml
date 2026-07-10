@@ -1,0 +1,31 @@
+name: Etihad Fleet Sync
+on:
+  schedule:
+    - cron: "0 */3 * * *"
+  workflow_dispatch: {}
+permissions:
+  contents: write
+concurrency:
+  group: fleet-sync
+  cancel-in-progress: false
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: Sweep live ADS-B and accumulate
+        run: python sync.py
+      - name: Commit if changed
+        run: |
+          git config user.name  "fleet-bot"
+          git config user.email "fleet-bot@users.noreply.github.com"
+          git add etihad_fleet.json etihad_fleet_by_model.json
+          git diff --cached --quiet && { echo "no changes"; exit 0; }
+          git commit -m "fleet sync $(date -u +%FT%TZ)"
+          for i in 1 2 3; do
+            git pull --rebase --autostash origin main && git push && exit 0
+            echo "push retry $i"; sleep 3
+          done
+          echo "push failed after retries"; exit 1
