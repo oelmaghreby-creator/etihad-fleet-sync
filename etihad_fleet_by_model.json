@@ -119,7 +119,7 @@
   {
     "Model": "A321",
     "Typecode": "A321",
-    "Count": 8,
+    "Count": 9,
     "Tails": [
       "A6-AEB",
       "A6-AEC",
@@ -128,7 +128,8 @@
       "A6-AEF",
       "A6-AEG",
       "A6-AEH",
-      "A6-AEI"
+      "A6-AEI",
+      "A6-AEJ"
     ]
   },
   {
