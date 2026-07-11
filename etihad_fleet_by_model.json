@@ -14,7 +14,7 @@
   {
     "Model": "777-300ER",
     "Typecode": "B77W",
-    "Count": 8,
+    "Count": 9,
     "Tails": [
       "A6-ETA",
       "A6-ETE",
@@ -22,6 +22,7 @@
       "A6-ETH",
       "A6-ETI",
       "A6-ETJ",
+      "A6-ETP",
       "A6-ETQ",
       "A6-ETS"
     ]
@@ -29,7 +30,7 @@
   {
     "Model": "787-10",
     "Typecode": "B78X",
-    "Count": 9,
+    "Count": 10,
     "Tails": [
       "A6-BMA",
       "A6-BMB",
@@ -37,6 +38,7 @@
       "A6-BMD",
       "A6-BME",
       "A6-BMF",
+      "A6-BMG",
       "A6-BMH",
       "A6-BMI",
       "A6-BMJ"
@@ -45,8 +47,9 @@
   {
     "Model": "787-9",
     "Typecode": "B789",
-    "Count": 30,
+    "Count": 33,
     "Tails": [
+      "A6-BLA",
       "A6-BLB",
       "A6-BLC",
       "A6-BLD",
@@ -54,6 +57,7 @@
       "A6-BLF",
       "A6-BLG",
       "A6-BLH",
+      "A6-BLI",
       "A6-BLJ",
       "A6-BLK",
       "A6-BLL",
@@ -67,6 +71,7 @@
       "A6-BLV",
       "A6-BLW",
       "A6-BLX",
+      "A6-BLY",
       "A6-BLZ",
       "A6-BNA",
       "A6-BNB",
@@ -82,11 +87,12 @@
   {
     "Model": "A320",
     "Typecode": "A320",
-    "Count": 12,
+    "Count": 13,
     "Tails": [
       "A6-EIB",
       "A6-EII",
       "A6-EIM",
+      "A6-EIN",
       "A6-EIP",
       "A6-EIS",
       "A6-EIT",
@@ -124,7 +130,7 @@
   {
     "Model": "A321neo",
     "Typecode": "A21N",
-    "Count": 15,
+    "Count": 16,
     "Tails": [
       "A6-AEN",
       "A6-AEO",
@@ -136,6 +142,7 @@
       "A6-LRB",
       "A6-LRD",
       "A6-LRF",
+      "A6-LRG",
       "A6-LRH",
       "A6-LRI",
       "A6-LRJ",
