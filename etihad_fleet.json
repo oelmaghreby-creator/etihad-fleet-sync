@@ -155,7 +155,7 @@
     "ICAO24": "8963CE",
     "Model": "787-9",
     "Operator": "Etihad Airways",
-    "Active": true,
+    "Active": false,
     "FirstSeenUtc": "2026-07-11T02:44:26Z",
     "LastSeenUtc": "2026-07-19T15:58:37Z"
   },
