@@ -835,7 +835,7 @@
     "ICAO24": "896455",
     "Model": "777-300ER",
     "Operator": "Etihad Airways",
-    "Active": true,
+    "Active": false,
     "FirstSeenUtc": "2026-07-28T11:18:24Z",
     "LastSeenUtc": "2026-07-28T11:18:24Z"
   },
