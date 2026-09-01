@@ -1175,7 +1175,7 @@
     "ICAO24": "89672F",
     "Model": "A350-1000",
     "Operator": "Etihad Airways",
-    "Active": true,
+    "Active": false,
     "FirstSeenUtc": "2026-07-10T11:06:46Z",
     "LastSeenUtc": "2026-08-02T10:41:43Z"
   }

@@ -162,7 +162,7 @@
   {
     "Model": "A350-1000",
     "Typecode": "A35K",
-    "Count": 12,
+    "Count": 11,
     "Tails": [
       "A6-XWA",
       "A6-XWB",
@@ -174,8 +174,7 @@
       "A6-XWI",
       "A6-XWJ",
       "A6-XWL",
-      "A6-XWN",
-      "A6-XWO"
+      "A6-XWN"
     ]
   }
 ]
