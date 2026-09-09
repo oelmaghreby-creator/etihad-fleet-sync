@@ -91,12 +91,11 @@
   {
     "Model": "A320",
     "Typecode": "A320",
-    "Count": 13,
+    "Count": 12,
     "Tails": [
       "A6-EIB",
       "A6-EIH",
       "A6-EIJ",
-      "A6-EIM",
       "A6-EIP",
       "A6-EIS",
       "A6-EIT",

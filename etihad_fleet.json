@@ -715,7 +715,7 @@
     "ICAO24": "89625B",
     "Model": "A320",
     "Operator": "Etihad Airways",
-    "Active": true,
+    "Active": false,
     "FirstSeenUtc": "2026-07-10T11:06:46Z",
     "LastSeenUtc": "2026-08-10T21:41:45Z"
   },
