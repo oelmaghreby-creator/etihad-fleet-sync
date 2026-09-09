@@ -65,7 +65,7 @@
     "ICAO24": "89643E",
     "Model": "A321",
     "Operator": "Etihad Airways",
-    "Active": true,
+    "Active": false,
     "FirstSeenUtc": "2026-07-10T11:06:46Z",
     "LastSeenUtc": "2026-08-10T04:38:35Z"
   },
@@ -695,7 +695,7 @@
     "ICAO24": "8961EB",
     "Model": "A320",
     "Operator": "Etihad Airways",
-    "Active": true,
+    "Active": false,
     "FirstSeenUtc": "2026-07-10T11:06:46Z",
     "LastSeenUtc": "2026-08-10T07:43:07Z"
   },
@@ -725,7 +725,7 @@
     "ICAO24": "89625C",
     "Model": "A320",
     "Operator": "Etihad Airways",
-    "Active": true,
+    "Active": false,
     "FirstSeenUtc": "2026-07-11T02:44:26Z",
     "LastSeenUtc": "2026-08-10T07:43:07Z"
   },
