@@ -1,6 +1,12 @@
 #!/usr/bin/env python3
-"""Accumulate Etihad's live fleet from airplanes.live (free, no key) into etihad_fleet.json.
-Identifies Etihad by callsign ETD* AND UAE registration A6-*. Runs unattended in GitHub Actions."""
+"""Accumulate Etihad's live fleet from adsb.lol (free, no key) into etihad_fleet.json.
+Identifies Etihad by callsign ETD* AND UAE registration A6-*. Runs unattended in GitHub Actions.
+
+Source note (2026-09-10): switched from airplanes.live to adsb.lol — airplanes.live
+now gates its API behind a registration/contact requirement and returns HTTP 403 for
+programmatic use (even with a descriptive User-Agent). adsb.lol is the open, free
+readsb-feed alternate and serves the identical v2 JSON (same /v2/type/{t} route and
+r/t/hex/flight fields); still wants a descriptive User-Agent + ~1 req/sec."""
 import json, os, time, urllib.request
 from datetime import datetime, timezone
 
@@ -15,7 +21,7 @@ MODEL = {"A21N":"A321neo","A20N":"A320neo","A320":"A320","A321":"A321","A35K":"A
 def now(): return datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
 def fetch(t):
-    req = urllib.request.Request(f"https://api.airplanes.live/v2/type/{t}", headers={"User-Agent": UA})
+    req = urllib.request.Request(f"https://api.adsb.lol/v2/type/{t}", headers={"User-Agent": UA})
     for attempt in range(4):
         try:
             with urllib.request.urlopen(req, timeout=30) as r:
