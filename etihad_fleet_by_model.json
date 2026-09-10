@@ -2,10 +2,9 @@
   {
     "Model": "777-200LR/F",
     "Typecode": "B77L",
-    "Count": 5,
+    "Count": 4,
     "Tails": [
       "A6-DDB",
-      "A6-DDC",
       "A6-DDD",
       "A6-DDE",
       "A6-DDF"
@@ -14,7 +13,7 @@
   {
     "Model": "777-300ER",
     "Typecode": "B77W",
-    "Count": 9,
+    "Count": 10,
     "Tails": [
       "A6-EQH",
       "A6-ETA",
@@ -22,6 +21,7 @@
       "A6-ETG",
       "A6-ETH",
       "A6-ETI",
+      "A6-ETJ",
       "A6-ETP",
       "A6-ETQ",
       "A6-ETS"
@@ -88,11 +88,12 @@
   {
     "Model": "A320",
     "Typecode": "A320",
-    "Count": 12,
+    "Count": 13,
     "Tails": [
       "A6-EIB",
       "A6-EIH",
       "A6-EIJ",
+      "A6-EIM",
       "A6-EIP",
       "A6-EIS",
       "A6-EIT",
@@ -115,11 +116,10 @@
   {
     "Model": "A321",
     "Typecode": "A321",
-    "Count": 7,
+    "Count": 6,
     "Tails": [
       "A6-AEC",
       "A6-AED",
-      "A6-AEE",
       "A6-AEF",
       "A6-AEG",
       "A6-AEI",
