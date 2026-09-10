@@ -46,7 +46,7 @@
   {
     "Model": "787-9",
     "Typecode": "B789",
-    "Count": 36,
+    "Count": 35,
     "Tails": [
       "A6-BLB",
       "A6-BLC",
@@ -58,7 +58,6 @@
       "A6-BLI",
       "A6-BLJ",
       "A6-BLK",
-      "A6-BLL",
       "A6-BLM",
       "A6-BLN",
       "A6-BLO",
@@ -89,13 +88,14 @@
   {
     "Model": "A320",
     "Typecode": "A320",
-    "Count": 11,
+    "Count": 12,
     "Tails": [
       "A6-EIB",
       "A6-EIH",
       "A6-EIJ",
       "A6-EIP",
       "A6-EIS",
+      "A6-EIT",
       "A6-EIU",
       "A6-EIV",
       "A6-EIW",
