@@ -46,9 +46,8 @@
   {
     "Model": "787-9",
     "Typecode": "B789",
-    "Count": 36,
+    "Count": 35,
     "Tails": [
-      "A6-BLB",
       "A6-BLC",
       "A6-BLD",
       "A6-BLE",
@@ -116,9 +115,8 @@
   {
     "Model": "A321",
     "Typecode": "A321",
-    "Count": 8,
+    "Count": 7,
     "Tails": [
-      "A6-AEB",
       "A6-AEC",
       "A6-AED",
       "A6-AEE",
@@ -131,8 +129,9 @@
   {
     "Model": "A321neo",
     "Typecode": "A21N",
-    "Count": 16,
+    "Count": 18,
     "Tails": [
+      "A6-AEN",
       "A6-AEO",
       "A6-AEP",
       "A6-AEQ",
@@ -146,6 +145,7 @@
       "A6-LRF",
       "A6-LRG",
       "A6-LRH",
+      "A6-LRI",
       "A6-LRJ",
       "A6-LRK",
       "A6-LRL"
@@ -154,7 +154,7 @@
   {
     "Model": "A350-1000",
     "Typecode": "A35K",
-    "Count": 11,
+    "Count": 12,
     "Tails": [
       "A6-XWA",
       "A6-XWB",
@@ -166,7 +166,8 @@
       "A6-XWI",
       "A6-XWJ",
       "A6-XWL",
-      "A6-XWN"
+      "A6-XWN",
+      "A6-XWO"
     ]
   }
 ]
