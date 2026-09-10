@@ -133,9 +133,8 @@
   {
     "Model": "A321neo",
     "Typecode": "A21N",
-    "Count": 18,
+    "Count": 17,
     "Tails": [
-      "A6-AEN",
       "A6-AEO",
       "A6-AEP",
       "A6-AEQ",

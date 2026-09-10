@@ -95,7 +95,7 @@
     "ICAO24": "89669A",
     "Model": "A321neo",
     "Operator": "Etihad Airways",
-    "Active": true,
+    "Active": false,
     "FirstSeenUtc": "2026-07-10T11:06:46Z",
     "LastSeenUtc": "2026-08-11T01:48:45Z"
   },
