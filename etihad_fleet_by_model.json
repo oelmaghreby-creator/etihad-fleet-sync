@@ -13,10 +13,8 @@
   {
     "Model": "777-300ER",
     "Typecode": "B77W",
-    "Count": 10,
+    "Count": 8,
     "Tails": [
-      "A6-EQH",
-      "A6-ETA",
       "A6-ETE",
       "A6-ETG",
       "A6-ETH",
@@ -30,14 +28,13 @@
   {
     "Model": "787-10",
     "Typecode": "B78X",
-    "Count": 9,
+    "Count": 8,
     "Tails": [
       "A6-BMB",
       "A6-BMC",
       "A6-BMD",
       "A6-BME",
       "A6-BMF",
-      "A6-BMG",
       "A6-BMH",
       "A6-BMI",
       "A6-BMJ"
@@ -46,11 +43,10 @@
   {
     "Model": "787-9",
     "Typecode": "B789",
-    "Count": 33,
+    "Count": 30,
     "Tails": [
       "A6-BLC",
       "A6-BLD",
-      "A6-BLE",
       "A6-BLF",
       "A6-BLG",
       "A6-BLH",
@@ -59,7 +55,6 @@
       "A6-BLK",
       "A6-BLL",
       "A6-BLM",
-      "A6-BLN",
       "A6-BLO",
       "A6-BLP",
       "A6-BLQ",
@@ -68,7 +63,6 @@
       "A6-BLT",
       "A6-BLV",
       "A6-BLW",
-      "A6-BLX",
       "A6-BLY",
       "A6-BLZ",
       "A6-BNA",
@@ -127,11 +121,9 @@
   {
     "Model": "A321neo",
     "Typecode": "A21N",
-    "Count": 17,
+    "Count": 15,
     "Tails": [
       "A6-AEN",
-      "A6-AEO",
-      "A6-AEP",
       "A6-AEQ",
       "A6-AES",
       "A6-LRA",
