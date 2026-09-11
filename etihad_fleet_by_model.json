@@ -27,8 +27,9 @@
   {
     "Model": "787-10",
     "Typecode": "B78X",
-    "Count": 6,
+    "Count": 7,
     "Tails": [
+      "A6-BMA",
       "A6-BMB",
       "A6-BMC",
       "A6-BMD",
@@ -78,7 +79,7 @@
   {
     "Model": "A320",
     "Typecode": "A320",
-    "Count": 12,
+    "Count": 13,
     "Tails": [
       "A6-EIH",
       "A6-EII",
@@ -87,6 +88,7 @@
       "A6-EIN",
       "A6-EIS",
       "A6-EIT",
+      "A6-EIU",
       "A6-EIV",
       "A6-EIW",
       "A6-EIX",
@@ -105,11 +107,13 @@
   {
     "Model": "A321",
     "Typecode": "A321",
-    "Count": 6,
+    "Count": 8,
     "Tails": [
       "A6-AEB",
+      "A6-AEC",
       "A6-AED",
       "A6-AEE",
+      "A6-AEF",
       "A6-AEG",
       "A6-AEI",
       "A6-AEJ"
