@@ -41,7 +41,7 @@
   {
     "Model": "787-9",
     "Typecode": "B789",
-    "Count": 31,
+    "Count": 32,
     "Tails": [
       "A6-BLC",
       "A6-BLD",
@@ -61,6 +61,7 @@
       "A6-BLU",
       "A6-BLV",
       "A6-BLW",
+      "A6-BLX",
       "A6-BLY",
       "A6-BLZ",
       "A6-BNA",
