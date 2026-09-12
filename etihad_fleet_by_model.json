@@ -2,9 +2,10 @@
   {
     "Model": "777-200LR/F",
     "Typecode": "B77L",
-    "Count": 4,
+    "Count": 5,
     "Tails": [
       "A6-DDB",
+      "A6-DDC",
       "A6-DDD",
       "A6-DDE",
       "A6-DDF"
@@ -27,13 +28,14 @@
   {
     "Model": "787-10",
     "Typecode": "B78X",
-    "Count": 7,
+    "Count": 8,
     "Tails": [
       "A6-BMA",
       "A6-BMB",
       "A6-BMC",
       "A6-BMD",
       "A6-BME",
+      "A6-BMG",
       "A6-BMH",
       "A6-BMJ"
     ]
@@ -126,10 +128,12 @@
   {
     "Model": "A321neo",
     "Typecode": "A21N",
-    "Count": 15,
+    "Count": 17,
     "Tails": [
       "A6-AEN",
+      "A6-AEO",
       "A6-AEQ",
+      "A6-AER",
       "A6-AES",
       "A6-LRA",
       "A6-LRB",
