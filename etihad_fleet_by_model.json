@@ -14,8 +14,9 @@
   {
     "Model": "777-300ER",
     "Typecode": "B77W",
-    "Count": 7,
+    "Count": 8,
     "Tails": [
+      "A6-ETA",
       "A6-ETG",
       "A6-ETH",
       "A6-ETI",
@@ -43,8 +44,9 @@
   {
     "Model": "787-9",
     "Typecode": "B789",
-    "Count": 35,
+    "Count": 36,
     "Tails": [
+      "A6-BLB",
       "A6-BLC",
       "A6-BLD",
       "A6-BLE",
