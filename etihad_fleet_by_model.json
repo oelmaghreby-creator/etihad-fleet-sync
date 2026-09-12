@@ -41,17 +41,20 @@
   {
     "Model": "787-9",
     "Typecode": "B789",
-    "Count": 32,
+    "Count": 35,
     "Tails": [
       "A6-BLC",
       "A6-BLD",
+      "A6-BLE",
       "A6-BLF",
+      "A6-BLG",
       "A6-BLH",
       "A6-BLI",
       "A6-BLJ",
       "A6-BLK",
       "A6-BLL",
       "A6-BLM",
+      "A6-BLN",
       "A6-BLO",
       "A6-BLP",
       "A6-BLQ",
@@ -145,16 +148,18 @@
   {
     "Model": "A350-1000",
     "Typecode": "A35K",
-    "Count": 9,
+    "Count": 11,
     "Tails": [
       "A6-XWA",
       "A6-XWB",
       "A6-XWC",
+      "A6-XWE",
       "A6-XWF",
       "A6-XWG",
       "A6-XWH",
       "A6-XWJ",
       "A6-XWL",
+      "A6-XWN",
       "A6-XWO"
     ]
   }
