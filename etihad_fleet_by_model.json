@@ -87,13 +87,14 @@
   {
     "Model": "A320",
     "Typecode": "A320",
-    "Count": 13,
+    "Count": 14,
     "Tails": [
       "A6-EIH",
       "A6-EII",
       "A6-EIJ",
       "A6-EIM",
       "A6-EIN",
+      "A6-EIP",
       "A6-EIS",
       "A6-EIT",
       "A6-EIU",
@@ -115,7 +116,7 @@
   {
     "Model": "A321",
     "Typecode": "A321",
-    "Count": 8,
+    "Count": 9,
     "Tails": [
       "A6-AEB",
       "A6-AEC",
@@ -123,6 +124,7 @@
       "A6-AEE",
       "A6-AEF",
       "A6-AEG",
+      "A6-AEH",
       "A6-AEI",
       "A6-AEJ"
     ]
