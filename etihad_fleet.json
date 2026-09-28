@@ -117,7 +117,7 @@
     "Operator": "Etihad Airways",
     "Active": true,
     "FirstSeenUtc": "2026-07-10T14:29:14Z",
-    "LastSeenUtc": "2026-09-27T11:34:40Z"
+    "LastSeenUtc": "2026-09-28T13:08:54Z"
   },
   {
     "Title": "A6-AEQ",
@@ -157,7 +157,7 @@
     "Operator": "Etihad Airways",
     "Active": true,
     "FirstSeenUtc": "2026-07-11T02:44:26Z",
-    "LastSeenUtc": "2026-09-27T21:00:51Z"
+    "LastSeenUtc": "2026-09-28T13:08:54Z"
   },
   {
     "Title": "A6-BLB",
@@ -227,7 +227,7 @@
     "Operator": "Etihad Airways",
     "Active": true,
     "FirstSeenUtc": "2026-07-10T19:29:17Z",
-    "LastSeenUtc": "2026-09-28T04:10:15Z"
+    "LastSeenUtc": "2026-09-28T13:08:54Z"
   },
   {
     "Title": "A6-BLI",
@@ -277,7 +277,7 @@
     "Operator": "Etihad Airways",
     "Active": true,
     "FirstSeenUtc": "2026-07-10T11:06:46Z",
-    "LastSeenUtc": "2026-09-28T04:10:15Z"
+    "LastSeenUtc": "2026-09-28T13:08:54Z"
   },
   {
     "Title": "A6-BLN",
@@ -367,7 +367,7 @@
     "Operator": "Etihad Airways",
     "Active": true,
     "FirstSeenUtc": "2026-07-10T13:10:24Z",
-    "LastSeenUtc": "2026-09-28T04:10:15Z"
+    "LastSeenUtc": "2026-09-28T13:08:54Z"
   },
   {
     "Title": "A6-BLW",
@@ -477,7 +477,7 @@
     "Operator": "Etihad Airways",
     "Active": true,
     "FirstSeenUtc": "2026-07-11T02:44:26Z",
-    "LastSeenUtc": "2026-09-28T04:10:15Z"
+    "LastSeenUtc": "2026-09-28T13:08:54Z"
   },
   {
     "Title": "A6-BMH",
@@ -557,7 +557,7 @@
     "Operator": "Etihad Airways",
     "Active": true,
     "FirstSeenUtc": "2026-07-11T05:42:14Z",
-    "LastSeenUtc": "2026-09-27T21:00:51Z"
+    "LastSeenUtc": "2026-09-28T13:08:54Z"
   },
   {
     "Title": "A6-BNF",
@@ -567,7 +567,7 @@
     "Operator": "Etihad Airways",
     "Active": true,
     "FirstSeenUtc": "2026-07-10T11:51:48Z",
-    "LastSeenUtc": "2026-09-28T04:10:15Z"
+    "LastSeenUtc": "2026-09-28T13:08:54Z"
   },
   {
     "Title": "A6-BNG",
@@ -587,7 +587,7 @@
     "Operator": "Etihad Airways",
     "Active": true,
     "FirstSeenUtc": "2026-07-10T11:06:46Z",
-    "LastSeenUtc": "2026-09-28T04:10:15Z"
+    "LastSeenUtc": "2026-09-28T13:08:54Z"
   },
   {
     "Title": "A6-BNI",
@@ -647,7 +647,7 @@
     "Operator": "Etihad Airways",
     "Active": true,
     "FirstSeenUtc": "2026-07-10T11:06:46Z",
-    "LastSeenUtc": "2026-09-27T21:00:51Z"
+    "LastSeenUtc": "2026-09-28T13:08:54Z"
   },
   {
     "Title": "A6-DDE",
@@ -697,7 +697,7 @@
     "Operator": "Etihad Airways",
     "Active": true,
     "FirstSeenUtc": "2026-07-10T11:06:46Z",
-    "LastSeenUtc": "2026-09-28T04:10:15Z"
+    "LastSeenUtc": "2026-09-28T13:08:54Z"
   },
   {
     "Title": "A6-EIJ",
@@ -757,7 +757,7 @@
     "Operator": "Etihad Airways",
     "Active": true,
     "FirstSeenUtc": "2026-07-10T13:10:24Z",
-    "LastSeenUtc": "2026-09-24T11:16:20Z"
+    "LastSeenUtc": "2026-09-28T13:08:54Z"
   },
   {
     "Title": "A6-EIU",
@@ -797,7 +797,7 @@
     "Operator": "Etihad Airways",
     "Active": true,
     "FirstSeenUtc": "2026-07-10T11:06:46Z",
-    "LastSeenUtc": "2026-09-25T16:45:07Z"
+    "LastSeenUtc": "2026-09-28T13:08:54Z"
   },
   {
     "Title": "A6-EIY",
@@ -877,7 +877,7 @@
     "Operator": "Etihad Airways",
     "Active": true,
     "FirstSeenUtc": "2026-07-10T11:06:46Z",
-    "LastSeenUtc": "2026-09-28T04:10:15Z"
+    "LastSeenUtc": "2026-09-28T13:08:54Z"
   },
   {
     "Title": "A6-ETE",
@@ -897,7 +897,7 @@
     "Operator": "Etihad Airways",
     "Active": true,
     "FirstSeenUtc": "2026-07-10T13:10:24Z",
-    "LastSeenUtc": "2026-09-27T04:08:44Z"
+    "LastSeenUtc": "2026-09-28T13:08:54Z"
   },
   {
     "Title": "A6-ETH",
@@ -917,7 +917,7 @@
     "Operator": "Etihad Airways",
     "Active": true,
     "FirstSeenUtc": "2026-07-10T11:06:46Z",
-    "LastSeenUtc": "2026-09-27T21:00:51Z"
+    "LastSeenUtc": "2026-09-28T13:08:54Z"
   },
   {
     "Title": "A6-ETJ",
@@ -967,7 +967,7 @@
     "Operator": "Etihad Airways",
     "Active": true,
     "FirstSeenUtc": "2026-07-10T11:06:46Z",
-    "LastSeenUtc": "2026-09-27T21:00:51Z"
+    "LastSeenUtc": "2026-09-28T13:08:54Z"
   },
   {
     "Title": "A6-LRB",
@@ -1097,7 +1097,7 @@
     "Operator": "Etihad Airways",
     "Active": true,
     "FirstSeenUtc": "2026-07-10T11:06:46Z",
-    "LastSeenUtc": "2026-09-28T04:10:15Z"
+    "LastSeenUtc": "2026-09-28T13:08:54Z"
   },
   {
     "Title": "A6-XWC",
@@ -1107,7 +1107,7 @@
     "Operator": "Etihad Airways",
     "Active": true,
     "FirstSeenUtc": "2026-07-11T05:42:14Z",
-    "LastSeenUtc": "2026-09-27T11:34:40Z"
+    "LastSeenUtc": "2026-09-28T13:08:54Z"
   },
   {
     "Title": "A6-XWE",
@@ -1137,7 +1137,7 @@
     "Operator": "Etihad Airways",
     "Active": true,
     "FirstSeenUtc": "2026-07-10T11:06:46Z",
-    "LastSeenUtc": "2026-09-28T04:10:15Z"
+    "LastSeenUtc": "2026-09-28T13:08:54Z"
   },
   {
     "Title": "A6-XWH",
@@ -1147,7 +1147,7 @@
     "Operator": "Etihad Airways",
     "Active": true,
     "FirstSeenUtc": "2026-07-10T11:06:46Z",
-    "LastSeenUtc": "2026-09-27T11:34:40Z"
+    "LastSeenUtc": "2026-09-28T13:08:54Z"
   },
   {
     "Title": "A6-XWI",
