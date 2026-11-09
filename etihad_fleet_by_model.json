@@ -30,7 +30,7 @@
   {
     "Model": "787-10",
     "Typecode": "B78X",
-    "Count": 10,
+    "Count": 9,
     "Tails": [
       "A6-BMA",
       "A6-BMB",
@@ -40,7 +40,6 @@
       "A6-BMF",
       "A6-BMG",
       "A6-BMH",
-      "A6-BMI",
       "A6-BMJ"
     ]
   },
